@@ -11,7 +11,7 @@
 
 # Tampilan Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/HeaderStatus/master/logoheader.jpg)
-# Tampilan Termux Cracked
+# Tampilan Termux Header Status
 ![be](https://raw.githubusercontent.com/boychongzen18/HeaderStatus/master/headerstatus.jpg)
 
 
