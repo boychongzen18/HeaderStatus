@@ -3,9 +3,9 @@
 # Windows & Termux Working
 
 # Tampilan Windows
-![be](https://raw.githubusercontent.com/boychongzen18/HeaderStatus/master/github.png)
-# Tampilan Windows Header Status
 ![be](https://raw.githubusercontent.com/boychongzen18/HeaderStatus/master/github1.png)
+# Tampilan Windows Header Status
+![be](https://raw.githubusercontent.com/boychongzen18/HeaderStatus/master/github.png)
 
 ===============================================================================
 
