@@ -20,3 +20,6 @@ no-cache
 Header 6
 X-Cnection
 Close
+
+
+NB : List diatas masukan di header Psiphon okeh bosku
