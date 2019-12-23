@@ -1,0 +1,22 @@
+Creator By Boychongzen aka Xroot
+
+Header Tri All Sosmed 1Bulan
+
+Header 1
+Host-Online
+bima.tri.co.id
+Header 2
+Ip-Host
+103.10.66.227
+Header 3
+Content-Type
+charset=utf-8
+Header 4
+Content-Length
+1504
+Header 5
+Pragma
+no-cache
+Header 6
+X-Cnection
+Close
