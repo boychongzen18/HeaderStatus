@@ -21,4 +21,17 @@ Header 6
 Server
 AkamaiGHost
 
+NB : List diatas masukan di header Psiphon okeh bosku
+
+
+
+
+
+
+
+
+
+
+
+
 
