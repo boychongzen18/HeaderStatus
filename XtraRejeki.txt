@@ -1,0 +1,29 @@
+Creator By Boychongzen aka Xroot 
+
+Header XtraRejeki
+
+Header 1
+Host-Online
+xtra-rejeki.tutorial-it.tk
+
+Header 2
+Content-Type
+text/html
+
+Header 3
+Content-Length
+209
+
+Header 4
+Mime-Version
+1.0
+
+Header 5
+Connection
+Close
+
+Header 6
+Server
+AkamaiGHost 
+
+NB : List diatas masukan di header Psiphon okeh bosku
