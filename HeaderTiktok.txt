@@ -1,0 +1,19 @@
+Creator By Boychongzen aka Xroot Header Axis Tiktok 100MB
+
+Header1
+Host-Online: support.tiktok.com
+Header2
+Ip-Online: 161.117.71.12
+Header2
+Content-Type: text/html
+Header3
+Content-Length: 2170
+Header4
+X-Content-Type-Options: nosniff
+Header5
+Connection: keep-alive
+Header6
+server: nginx/1.14.2
+
+
+NB : List diatas masukan di header Psiphon okeh
