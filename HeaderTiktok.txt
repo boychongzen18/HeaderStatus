@@ -3,8 +3,6 @@ Creator By Boychongzen aka Xroot Header Axis Tiktok 100MB
 Header1
 Host-Online: support.tiktok.com
 Header2
-
-
 Content-Type: text/html
 Header3
 Content-Length: 2170
