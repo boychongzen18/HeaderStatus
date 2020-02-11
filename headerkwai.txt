@@ -1,0 +1,40 @@
+Creator By Boychongzen aka Xroot
+
+Header Kwai Bug 200ok
+
+Header 1
+Host
+m.kwai.com
+
+Header 2
+Content-Type
+text/plain
+
+Header 3
+Content-Length
+2
+
+Header 4
+Connection
+keep-alive
+
+Header 5
+Set-Cookie
+didv=1581423046176
+
+Header 6
+Allow
+GET
+
+
+NB : List diatas masukan di header Psiphon okeh bosku
+
+
+
+
+
+
+
+
+
+
